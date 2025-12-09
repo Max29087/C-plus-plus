@@ -1,6 +1,6 @@
 #include <iostream>
 using namespace std;
-int main()
+int main() //O(n²);
 {
     int n = 7;
     int arr[] = {3, -4, 5, 4, -1, 7, -8};
